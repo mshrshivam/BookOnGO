@@ -1,0 +1,40 @@
+From : Bangalore
+To : Delhi
+Booking Date: 2022-12-23
+Arrival : 2022-08-27
+Seat No : 2
+Type : Economy
+Airlines : Air India
+Time : 10:00 AM
+Total Cost : 7600
+=========================================
+From : Delhi
+To : Bangalore
+Booking Date: 2022-12-25
+Arrival : 20-12-2022
+Seat No : 5
+Type : Business
+Airlines : IndiGo
+Time : 9:00 AM
+Total Cost : 20000
+=========================================
+From : Delhi
+To : Bangalore
+Booking Date: 2022-12-26
+Arrival : 22
+Seat No : 2
+Type : Business
+Airlines : Air India
+Time : 9:00 AM
+Total Cost : 8000
+=========================================
+From : Delhi
+To : Mumbai
+Booking Date: 2022-12-26
+Arrival : 1234
+Seat No : 7
+Type : Business
+Airlines : IndiGo
+Time : 9:00 AM
+Total Cost : 33600
+=========================================

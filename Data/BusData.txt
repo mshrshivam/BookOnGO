@@ -1,0 +1,140 @@
+From : Mumbai
+To : Delhi
+Booking Date: 2022-12-25
+Arrival : 2022-12-28
+Seat No : 2
+Type : Volvo AC
+Coach: Volvo Bus
+Time : 10:00 AM
+Total Cost : 2200
+=========================================
+From : Delhi
+To : Bangalore
+Booking Date: 2022-12-25
+Arrival : 12-12-2022
+Seat No : 2
+Type : Volvo AC
+Coach: Rajdhani Express
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Delhi
+To : Bangalore
+Booking Date: 2022-12-25
+Arrival : 12-12-2022
+Seat No : 2
+Type : Volvo AC
+Coach: Express Bus
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Bangalore
+To : Delhi
+Booking Date: 2022-12-25
+Arrival : 20-12-2022
+Seat No : 2
+Type : Volvo AC
+Coach: Rajdhani Express
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Delhi
+To : Bangalore
+Booking Date: 2022-12-25
+Arrival : 22
+Seat No : 2
+Type : Volvo AC
+Coach: Volvo Bus
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Bangalore
+To : Delhi
+Booking Date: 2022-12-26
+Arrival : 22
+Seat No : 2
+Type : Volvo AC
+Coach: Express Bus
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Delhi
+To : Bangalore
+Booking Date: 2022-12-26
+Arrival : 11
+Seat No : 2
+Type : Volvo AC
+Coach: Rajdhani Express
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Jaipur
+To : Delhi
+Booking Date: 2022-12-26
+Arrival : 202
+Seat No : 7
+Type : Volvo AC
+Coach: Volvo Bus
+Time : 9:00 AM
+Total Cost : 8400
+=========================================
+From : Delhi
+To : Jaipur
+Booking Date: 2022-12-28
+Arrival : 30-12-2022
+Seat No : 2
+Type : Volvo AC
+Coach: Express Bus
+Time : 10:00 AM
+Total Cost : 2400
+=========================================
+From : Jaipur
+To : Delhi
+Booking Date: 2022-12-28
+Arrival : 30-12-2022
+Seat No : 3
+Type : Volvo AC
+Coach: Rajdhani Express
+Time : 9:00 AM
+Total Cost : 3600
+=========================================
+From : Jaipur
+To : Delhi
+Booking Date: 2022-12-28
+Arrival : 30-12-2022
+Seat No : 1
+Type : Volvo AC
+Coach: Volvo Bus
+Time : 9:00 AM
+Total Cost : 1200
+=========================================
+From : Delhi
+To : Mumbai
+Booking Date: 2022-12-28
+Arrival : 2022-12-30
+Seat No : 3
+Type : Volvo AC
+Coach: Express Bus
+Time : 9:00 AM
+Total Cost : 3300
+=========================================
+From : Mumbai
+To : Delhi
+Booking Date: 2022-12-28
+Arrival : 2022-12-30
+Seat No : 1
+Type : Volvo AC
+Coach: Rajdhani Express
+Time : 9:00 AM
+Total Cost : 1100
+=========================================
+From : Delhi
+To : Mumbai
+Booking Date: 2022-12-28
+Arrival : 2022-12-30
+Seat No : 2
+Type : Volvo AC
+Coach: Volvo Bus
+Time : 9:00 AM
+Total Cost : 2200
+=========================================
